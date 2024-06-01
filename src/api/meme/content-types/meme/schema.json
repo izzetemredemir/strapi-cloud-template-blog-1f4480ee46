@@ -23,10 +23,11 @@
     "ticker": {
       "type": "string"
     },
+    "address": {
+      "type": "string"
+    },
     "image": {
-      "allowedTypes": [
-        "images"
-      ],
+      "allowedTypes": ["images"],
       "type": "media",
       "multiple": false
     }
